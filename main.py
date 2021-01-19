@@ -5,7 +5,7 @@ import random # import module random
 print('✨ Memulai Permainan Batu Gunting Kertas ✨')
 player_name = input('Halo! Siapa Namamu? : ')
 
-print('Ayo pilih mana? (0: Batu, 1: Gunting, 2: Kertas)')
+print('Ayo pilih mana? (0: Batu 👊, 1: Gunting ✌️, 2: Kertas 🖐️)')
 player_hand = int(input('Masukkan Nomor Pilihanmu (0-2): '))
 
 if utils.validate(player_hand):
