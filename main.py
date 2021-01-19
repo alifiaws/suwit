@@ -2,7 +2,7 @@ import utils
 
 import random # import module random
 
-print('✨ Memulai Permainan Batu Gunting Kertas ✨')
+print('✨  Memulai Permainan Batu Gunting Kertas ✨')
 player_name = input('Halo! Siapa Namamu? : ')
 
 print('Ayo pilih mana? 0: Batu👊   1: Gunting✌️   2: Kertas🖐️')
